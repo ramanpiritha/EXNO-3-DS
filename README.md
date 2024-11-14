@@ -1,4 +1,4 @@
-## EXNO-3 Feature Encoding and Transformation
+## EXNO-3 Feature Encoding and Transformation.
 
 # Name: Piritharaman R
 # Reg no: 212223230148
