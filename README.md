@@ -1,6 +1,7 @@
-## EXNO-3-DS
-## Name: Piritharaman R
-## Reg no: 212223230148
+## EXNO-3 Feature Encoding and Transformation
+
+# Name: Piritharaman R
+# Reg no: 212223230148
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
